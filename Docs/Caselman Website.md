@@ -81,7 +81,7 @@
 
 ## Valve
 
-![Fireing valve](images/caselman-valve-1.jpg "Firing Valve and Body and Air Holding Area")
+![Alt text](images/caselman-valve-1.jpg "Firing Valve and Body and Air Holding Area")
 
 The Firing Valve Body is made of cold rolled steel.  The picture shows the turned parts before the Firing Valve Body was welded to the receiver tube.  The plans call for a 3/32" diameter valve stem, but this version was built with a 1/8" diameter valve stem.
 
@@ -93,13 +93,13 @@ A valve stem travel limiter was machined from a piece of delrin.  Actually, I ma
 
 ## Receiver
 
-![receiver tube](images/caselman-receiver-1.jpg "Milling the slots in the receiver tube.")
+![Alt text](images/caselman-receiver-1.jpg "Milling the slots in the receiver tube.")
 
 The receiver tube is made from 1" OD, .120" wall DOM steel tube.  The slot being machined in the picture above was later modified for round ball ammo and the new magazine and ammo port.
 
 A ball end mill is used to cut the groove where the valve body is welded on to the receiver tube.
 
-![Milling](images/receivergroove.jpg "Milling the round bottom groove where the valve will be welded to the receiver tube.")
+![Alt text](images/receivergroove.jpg "Milling the round bottom groove where the valve will be welded to the receiver tube.")
 
 A lot of people don't notice that the Caselman was built left handed.  My second version is right handed.  Cut the slot for the striker on the right side.  You will also make changes in the striker follower and the bolt body, but there isn't anything too difficult about making it right handed. 
 
@@ -107,21 +107,21 @@ There isn't anything difficult in building the receiver tube.
 
 ## Housings
 
-![Trigger and magazine housings](images/triggerhousing.jpg "Trigger and magazine housings.")
+![Alt text](images/triggerhousing.jpg "Trigger and magazine housings.")
 
 The Trigger housing is made from a piece of square or rectangular steel tube.  The top is cut out or off the the tube.  The one shown here was made by cutting the top off of a 1" wide by 1 1/2" tall by .125" wall steel tube with a band saw.  The rough cut for the magazine area was also cut on a bandsaw.  The top was machined with a 1" ball end mill so it would mate up to the 1" receiver tube.  Be prepared for the cut tube to distort as the internal stresses are relieved.  The cutout for the magazine well was done with the front radius piece tacked in place, then the cut was cleaned up with the mill.
 
 The magazine well was redesigned to make it removable.  This was done for several reasons.  I wanted to be able to alter the attachment part for various magazine designs including a drum magazine.  It was also much easier to build in multiple pieces.
 
-![Mag](images/maghousing2pc.jpg "Two piece magazine housing modification. The small part is welded into the housing and the front part bolts to it.")
+![Alt text](images/maghousing2pc.jpg "Two piece magazine housing modification. The small part is welded into the housing and the front part bolts to it.")
 
-![Welded](images/maghousingfront.jpg "Front view with retention pieces welded in place and machined.")
+![Alt text](images/maghousingfront.jpg "Front view with retention pieces welded in place and machined.")
 
 The rest of the construction was straight forward.
 
 ## Magazines
 
-![mag](images/caselman-magbyTBK-1.jpg "The end of the new magazine design for shooting .32 caliber lead balls.")
+![Alt text](images/caselman-magbyTBK-1.jpg "The end of the new magazine design for shooting .32 caliber lead balls.")
 
 The original magazine design for the Caselman was for conical bullets and required a forming die and oval spring.  The magazine and loading port were redesigned to shoot round ammo.  The new magazine is simple to build but still reliably feeds .32 caliber, 45 grain, round ball ammo.
 
@@ -137,9 +137,9 @@ The follower is made from Delrin according to the drawing.  The longer length en
 
 ## Bolt and Striker
 
-![Bolt](images/caselman-bolt.jpg "Bolt showing brass overlay and nose with o-ring.")
+![Alt text](images/caselman-bolt.jpg "Bolt showing brass overlay and nose with o-ring.")
 
-![Striker](images/caselman-striker.jpg "Striker rough cut and brass trigger to the right.")
+![Alt text](images/caselman-striker.jpg "Striker rough cut and brass trigger to the right.")
 
 The striker (along with the bolt), as shown above is way too light!  Initial testing had firing rates of 1200 to 1500 rpm.  It can be tuned to fire reliable at 1200 rpm with the regular striker spring.  I chose to slow it down to 800 rpm as that is a good compromise of ROF and reliability, and just sounds good.  Stay tuned for more about how to fix this issue.
 
@@ -147,7 +147,7 @@ The brass overlay can be removed.  Laying in brazing didn't work very well, so I
 
 ## Barrel
 
-![Barrell Holder](images/barrellholder.jpg "Barrell Holder")
+![Alt text](images/barrellholder.jpg "Barrell Holder")
 
 Barrel holder showing the chamber end, ammo feed port, 
 and the small hole in the larger diameter which is for the
@@ -159,18 +159,18 @@ The barrel is a .32-20 barrel liner that has a 1/2" outside diameter and 20" lon
 
 The ammo port was cut from a 3/4" round bar of 12L14 in the lathe and finished on the mill.  The bottom of it is radiused to match the 3/4" OD of the barrel holder.
 
-![Ammo Port](images/ammoport.jpg "Ammo Port")
+![Alt text](images/ammoport.jpg "Ammo Port")
 Ammo Port showing radius to fit the barrel holder.
 
 ## Trigger
 
 Here are some pictures and tips on making the trigger function on the Caselman.
 
-![Trigger Setup](images/trigger-setup.jpg "Trigger being setup to check relative positions.")
+![Alt text](images/trigger-setup.jpg "Trigger being setup to check relative positions.")
 
-![Trigger semimode](images/trigger-semimode.jpg "Position of fire control parts in semi-auto mode.")
+![Alt text](images/trigger-semimode.jpg "Position of fire control parts in semi-auto mode.")
 
-![Trigger fullautomode](images/trigger-fullautomode.jpg "Position of parts when in full-auto mode.")
+![Alt text](images/trigger-fullautomode.jpg "Position of parts when in full-auto mode.")
 
 I didn't like the trigger setup when I first started building.  It looked like there would be a problem with wear where the soft bolt rides across the top of the hardened full-auto sear trip.  I made a mock up of the parts from cardboard to see how all of the parts interact.  It didn't appear that there would be enough trigger travel to get it into full-auto mode.  It bottomed out on the bottom of the trigger housing.  I wasn't concerned with a semi-auto mode, preferring trigger control and mostly full-auto firing anyway.  I quickly designed and built a full-auto only trigger connector.  You will see pictures of that on here.  I also did a few other options, but eventually decided to try the original design.  With careful measurements, some more filing and grinding, and final fitting I got enough travel.  Email me and I will send you the details on the trigger setup and measurements.  It will eventually be on this site.
 
@@ -178,7 +178,7 @@ Email me with any questions about how the trigger operates and I will post answe
 
 ## Air Supply
 
-![Tethered Air Supply](images/airsupply.jpg "Tethered Air Supply")
+![Alt text](images/airsupply.jpg "Tethered Air Supply")
 
 Air Supply for the Caselman was modified from an onboard tank to a tethered supply.  This was done in anticipation of a lot of testing and modifications and I didn't want to spend a lot of time filling a tank.  I can now run this off the scuba tank for a long time.  For field use a smaller air tank can be used.
 
